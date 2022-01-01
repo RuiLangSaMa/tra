@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages,I am RuiLangSaMa
+## 欢迎来到睿朗SaMa的博客
 
 You can use the [editor on GitHub](https://github.com/RuiLangSaMa/tra/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.Oh!You can also visit [MCTRA](http://mctra.top/),too.
 
